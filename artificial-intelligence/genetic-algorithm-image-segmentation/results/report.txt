@@ -1,0 +1,32 @@
+============================================================
+POMEGRANATE SEGMENTATION - OPTIMIZATION REPORT
+============================================================
+
+--- Best Genome Parameters ---
+Genome(fitness=0.9399):
+  Mask 1: H[0-10] S[81-255] V[19-255]
+  Mask 2: H[119-179] S[25-255] V[2-253]
+
+--- Training Set Metrics ---
+avg_accuracy: 0.9510
+avg_precision: 0.9586
+avg_recall: 0.9221
+avg_f1_score: 0.9399
+avg_f_beta: 0.9399
+avg_iou: 0.8866
+avg_dice: 0.9399
+
+--- Validation Set Metrics ---
+avg_accuracy: 0.9470
+avg_precision: 0.8363
+avg_recall: 0.9044
+avg_f1_score: 0.8689
+avg_f_beta: 0.8689
+avg_iou: 0.7687
+avg_dice: 0.8689
+
+--- Evolution Summary ---
+Total generations: 50
+Initial best fitness: 0.5367
+Final best fitness: 0.9399
+Improvement: 0.4032

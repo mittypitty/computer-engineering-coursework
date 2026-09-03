@@ -1,0 +1,23 @@
+{
+  "thresholds": [
+    {
+      "h_low": 0,
+      "h_high": 10,
+      "s_low": 81,
+      "s_high": 255,
+      "v_low": 19,
+      "v_high": 255
+    },
+    {
+      "h_low": 119,
+      "h_high": 179,
+      "s_low": 25,
+      "s_high": 255,
+      "v_low": 2,
+      "v_high": 253
+    }
+  ],
+  "blur_kernel": 5,
+  "morph_kernel": 5,
+  "fitness": 0.9398566506104725
+}
